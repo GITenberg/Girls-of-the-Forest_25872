@@ -1,0 +1,38 @@
+_repo: Girls-of-the-Forest_25872
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Meade, L. T.
+    aliases:
+    - Meade, Elizabeth Thomasina
+    - Thomas, Elizabeth
+    - Meade, Lillie
+    - Smith, Elizabeth Thomasina Meade
+    - Mead, L. T.
+    - Meade, Mrs. L. T.
+    birthdate: 1854
+    deathdate: 1914
+    gutenberg_agent_id: '1621'
+    url: http://www.gutenberg.org/2009/agents/1621
+    wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
+description: ''
+gutenberg_issued: '2008-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25872'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Girls -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Girls -- England -- Juvenile fiction'
+- !lcsh 'Family life -- Juvenile fiction'
+- !lcsh 'Aunts -- Juvenile fiction'
+- !lcsh 'Sisters -- Juvenile fiction'
+title: Girls of the Forest
+url: http://www.gutenberg.org/ebooks/25872
